@@ -1,2 +1,2 @@
 # Merge-Sort
-Merge sort is sorting techinque used to sort the given elements.
+Merge sort is a sorting technique used to sort the given elements.
